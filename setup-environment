@@ -242,10 +242,7 @@ You can now run 'bitbake <target>'
 
 Common targets are:
     core-image-minimal
-    meta-toolchain
-    meta-toolchain-sdk
-    adt-installer
-    meta-ide-support
+    image-orpheus-ct
 
 EOF
 
